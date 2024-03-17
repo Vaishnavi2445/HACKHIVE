@@ -98,9 +98,9 @@ We have implemented these features:
 - Enter command - `flutter clean` at first.
 - Then Enter Command - `flutter run` to start the application in your local emulator.
   ##  LINKS -
-   [Youtube Link](https://www.youtube.com/watch?v=27KY-zAa8Ps)
-  
- [Presentation Link](https://www.canva.com/design/DAF_wTuJgYk/3-51BvWHTiQfMnSlTSRsiQ/edit?utm_content=DAF_wTuJgYk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+ [Youtube Link](https://www.youtube.com/watch?v=27KY-zAa8Ps)
+
+ [Presentation Link](https://docs.google.com/presentation/d/1fhuNQBS4KHlWuGky4CwI2Xd4duufd9Bv/edit?usp=sharing&ouid=115469446610132199239&rtpof=true&sd=true)
   ## :heart: Team CodeHex
 1. [Shrashti Bhumarkar](https://github.com/shrashti2004)
 2. [Vaishnavi Gupta](https://github.com/Vaishnavi2445)
