@@ -54,7 +54,7 @@ We have implemented these features:
 
 ## Project Created & Maintained By
 
-## :heart: Team Vision
-1. [Shrashti Bhumarkar](https://github.com/shrashti2004)
-2. [Vaishnavi Gupta](https://github.com/Vaishnavi2445)
+## :heart: Team CodeHex
+1. [Vaishnavi Gupta](https://github.com/Vaishnavi2445)
+2. [Shrashti Bhumarkar](https://github.com/shrashti2004)
   
