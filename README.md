@@ -40,6 +40,49 @@ We have implemented these features:
   2. Pronunciation Guide available with support in English language.
   3. In app navigation supported.
   4. In app voice based guide available.
+<h2>Implementation</h2>
+<p align="center">
+  <img src="./images/Screenshot 2024-03-16 201939.png" alt="Image"/>
+</p>
+<p align="center">
+  <img src="./images/Screenshot 2024-03-17 114941.png" alt="Image"/>
+</p>
+<p align="center">
+  <img src="./images/Screenshot 2024-03-17 115105.png" alt="Image"/>
+</p>
+<p align="center">
+  <img src="./images/Screenshot 2024-03-17 115128.png" alt="Image"/>
+</p>
+<p align="center">
+  <img src="./images/Screenshot 2024-03-17 115206.png" alt="Image"/>
+</p>
+
+<p align="center">
+  <img src="./images/Screenshot 2024-03-17 115216.png" alt="Image"/>
+</p>
+<p align="center">
+  <img src="./images/Screenshot 2024-03-17 115227.png" alt="Image"/>
+</p>
+<p align="center">
+  <img src="./images/Screenshot 2024-03-17 115429.png" alt="Image"/>
+</p>
+<p align="center">
+  <img src="./images/Screenshot 2024-03-17 115453.png" alt="Image"/>
+</p>
+
+<p align="center">
+  <img src="./images/Screenshot 2024-03-17 115513.png" alt="Image"/>
+</p>
+<p align="center">
+  <img src="./images/Screenshot 2024-03-17 115522.png" alt="Image"/>
+</p>
+<p align="center">
+  <img src="./images/Screenshot 2024-03-17 115530.png" alt="Image"/>
+</p>
+<p align="center">
+  <img src="./images/Screenshot 2024-03-17 115544.png" alt="Image"/>
+</p>
+
 ### How-to-run
 
 - Clone this Repository.
