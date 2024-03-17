@@ -3,11 +3,18 @@
 <h2 align="center">"Breaking Barriers: Enabling Vocational Training and Educational Support for the Visually Impaired Through an Interactive Mobile Application"📱</h2>
 
 <h2>  Descripition</h2>
-<h3> Problem Statement</h3>
+<h3> Problem Statement  </h3>
 AI-Powered Accessibility Solutions for Blind Students in Remote Education.
-<h3>Solution</h3>
+<h3>Solution 💡</h3>
 Solution: Our mission is to educate, empower, and enhance the communication skills of visually impaired individuals, ultimately aiding them in securing employment. Our goal is to engage with visually impaired communities through innovative technological solutions, empowering them to harness their strengths. To achieve this, we have developed an app that serves as a platform for blind individuals to learn, improve their communication skills, and access job opportunities.
-<h2>Vision</h2>
+<h2>Aim 🎯<h2>
+
+1. To Break Linguistic Barrier Between People With And Without Vision & Provide a Better Community Support.
+2. To Reach a specific Audience to Improve their Vocational Skills  And Help Them to Get Better Jobs and Societal acceptance. 
+  <h2>Summary</h2>
+The mobile app will have features such as to improve the vocal speech of the user, enhance subject knowledge, interactive live session with expert or bot and fun interactive games to train their mind. The app has very easy to use layout setup with voice powered in-app navigation support. 
+
+<h2>Objectives </h2>
 
 1. Train the user to improve their linguistic skills or learn new language.
 2. The app will also provide study material and courses in audio format to be accessed easily.
@@ -34,7 +41,7 @@ Solution: Our mission is to educate, empower, and enhance the communication skil
 ⦿ <b>Database :</b>
 * [![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
-### Status :
+### Developed Features: :
 We have implemented these features:
   1. User Login through Firebase
   2. Pronunciation Guide available with support in English language.
